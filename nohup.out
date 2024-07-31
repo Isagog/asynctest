@@ -1,0 +1,135 @@
+INFO:     Started server process [23454]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8001 (Press CTRL+C to quit)
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [23454]
+INFO:     Started server process [23629]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8001 (Press CTRL+C to quit)
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [23629]
+INFO:     Started server process [24475]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8001 (Press CTRL+C to quit)
+INFO:     127.0.0.1:51015 - "GET /api/error HTTP/1.1" 500 Internal Server Error
+INFO:     127.0.0.1:51018 - "GET /api/error HTTP/1.1" 500 Internal Server Error
+INFO:     127.0.0.1:51021 - "GET /api/error HTTP/1.1" 500 Internal Server Error
+INFO:     127.0.0.1:51024 - "GET /api/error HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51027 - "GET /api/error HTTP/1.1" 500 Internal Server Error
+INFO:     127.0.0.1:51030 - "GET /api/error HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51033 - "GET /api/error HTTP/1.1" 500 Internal Server Error
+INFO:     127.0.0.1:51036 - "GET /api/error HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51039 - "GET /api/error HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51042 - "GET /api/error HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51046 - "GET /api/error HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51073 - "POST /api/item HTTP/1.1" 422 Unprocessable Entity
+INFO:     127.0.0.1:51082 - "POST /api/item HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51085 - "POST /api/item HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51088 - "POST /api/item HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51091 - "POST /api/item HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51094 - "POST /api/item HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51097 - "POST /api/item HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51109 - "GET /api/item/666 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51113 - "GET /api/item/66 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51128 - "POST /api/item HTTP/1.1" 422 Unprocessable Entity
+INFO:     127.0.0.1:51134 - "POST /api/item HTTP/1.1" 200 OK
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [24475]
+INFO:     Started server process [27850]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8001 (Press CTRL+C to quit)
+INFO:     127.0.0.1:51217 - "POST /api/item HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51220 - "POST /api/item HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51223 - "POST /api/item HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51226 - "POST /api/item HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51229 - "POST /api/item HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51232 - "POST /api/item HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51235 - "POST /api/item HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51238 - "POST /api/item HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51241 - "POST /api/item HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51244 - "POST /api/item HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51247 - "POST /api/item HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51250 - "POST /api/item HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51253 - "POST /api/item HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51256 - "POST /api/item HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51259 - "POST /api/item HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51262 - "POST /api/item HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51265 - "POST /api/item HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51268 - "POST /api/item HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51271 - "POST /api/item HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51274 - "POST /api/item HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51277 - "POST /api/item HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51280 - "POST /api/item HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51283 - "POST /api/item HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51286 - "POST /api/item HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51289 - "POST /api/item HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51292 - "POST /api/item HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51295 - "POST /api/item HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51298 - "POST /api/item HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51301 - "POST /api/item HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51304 - "POST /api/item HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51319 - "GET /api/item HTTP/1.1" 405 Method Not Allowed
+INFO:     127.0.0.1:51330 - "GET /api/item/8 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51334 - "GET /api/item/8 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51337 - "GET /api/item/8 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51340 - "GET /api/item/8 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51343 - "GET /api/item/8 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51346 - "GET /api/item/8 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51349 - "GET /api/item/8 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51352 - "GET /api/item/8 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51355 - "GET /api/item/8 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51358 - "GET /api/item/8 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51361 - "GET /api/item/8 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51364 - "GET /api/item/8 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51367 - "GET /api/item/8 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51370 - "GET /api/item/8 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51373 - "GET /api/item/8 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51394 - "GET /api/error HTTP/1.1" 500 Internal Server Error
+INFO:     127.0.0.1:51400 - "GET /api/error HTTP/1.1" 500 Internal Server Error
+INFO:     127.0.0.1:51403 - "GET /api/error HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51406 - "GET /api/error HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51409 - "GET /api/error HTTP/1.1" 500 Internal Server Error
+INFO:     127.0.0.1:51412 - "GET /api/error HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51415 - "GET /api/error HTTP/1.1" 500 Internal Server Error
+INFO:     127.0.0.1:51418 - "GET /api/error HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51421 - "GET /api/error HTTP/1.1" 500 Internal Server Error
+INFO:     127.0.0.1:52180 - "GET /api/error HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52184 - "GET /api/error HTTP/1.1" 500 Internal Server Error
+INFO:     127.0.0.1:52187 - "GET /api/error HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52190 - "GET /api/error HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52193 - "GET /api/error HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52198 - "GET /api/error HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52201 - "GET /api/error HTTP/1.1" 500 Internal Server Error
+INFO:     127.0.0.1:52254 - "GET /api/error HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52257 - "GET /api/error HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52260 - "GET /api/error HTTP/1.1" 500 Internal Server Error
+INFO:     127.0.0.1:52269 - "POST /api/item HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52275 - "GET /api/error HTTP/1.1" 500 Internal Server Error
+INFO:     127.0.0.1:52278 - "POST /api/item HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52281 - "POST /api/item HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52284 - "POST /api/item HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52287 - "POST /api/item HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52290 - "POST /api/item HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52293 - "POST /api/item HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52296 - "POST /api/item HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52299 - "POST /api/item HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52302 - "POST /api/item HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52305 - "POST /api/item HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52386 - "POST /api/item HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52390 - "POST /api/item HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52393 - "POST /api/item HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52396 - "POST /api/item HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52399 - "POST /api/item HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52404 - "GET /api/item/8 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52407 - "GET /api/error HTTP/1.1" 500 Internal Server Error
+INFO:     127.0.0.1:52412 - "GET /api/error HTTP/1.1" 200 OK
